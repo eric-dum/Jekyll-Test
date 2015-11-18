@@ -1,8 +1,9 @@
-@import '_components/typography';
-
 @import "reset";
 @import "syntax";
 
+@import '_components/typography';
+@import '_components/navigation';
+
 body {
-    background: white;
+  background-color: white;
 }
