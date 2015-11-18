@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io/api/osx,jekyll,node
 
 ### CUSTOM IGNORES ###
-readme-framework.md
+/readme-framework.md
 
 ### OSX ###
 .DS_Store
@@ -32,7 +32,6 @@ Temporary Items
 
 
 ### Jekyll ###
-_site/
 .sass-cache/
 .jekyll-metadata
 
